@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Build, Migrate, Improve: A Three-Phase Approach to Adopting TypeScript
+title: "Build, Migrate, Improve: A Three-Phase Approach to Adopting TypeScript"
 ---
 
 Converting a project to TypeScript is an investment worth making.  Here’s what you need to know to make the process go smoothly and quickly.
