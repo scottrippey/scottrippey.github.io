@@ -1,5 +1,8 @@
 # Mock factories make better tests
 
+> Originally published at https://nearform.com/digital-community/mock-factories-make-better-tests/
+
+
 ![The inside of an old factory](https://res.cloudinary.com/formidablelabs/image/upload/q_auto,f_auto,w_1500/dotcom/mock-factory.png)
 
 **Developers need a good way to produce mock data.  Here’s how we implemented a mock factory for an e-commerce site that’s simple, flexible, and fun.**

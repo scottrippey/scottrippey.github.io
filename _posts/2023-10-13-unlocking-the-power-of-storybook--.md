@@ -2,6 +2,8 @@
 
 Going beyond the Design System: how to use Storybook to develop, test, and validate all parts of a frontend application.
 
+> Originally published at https://nearform.com/digital-community/unlocking-the-power-of-storybook/
+
 ### Storybook: more than a showcase
 
 Storybook is a popular tool for frontend web development, best known as a **showcase** for Design Systems and UI Libraries.  However, Storybook has features that are far more powerful than simply showcasing UI components!
