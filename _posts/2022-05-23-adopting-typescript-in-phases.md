@@ -1,3 +1,8 @@
+---
+layout: post
+title: Build, Migrate, Improve: A Three-Phase Approach to Adopting TypeScript
+---
+
 Converting a project to TypeScript is an investment worth making.  Here’s what you need to know to make the process go smoothly and quickly.
 
 > Originally published at https://nearform.com/digital-community/adopting-typescript-in-phases/
