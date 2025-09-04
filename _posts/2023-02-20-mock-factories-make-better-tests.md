@@ -1,11 +1,11 @@
 # Mock factories make better tests
 
-> Originally published at https://nearform.com/digital-community/mock-factories-make-better-tests/
+Developers need a good way to produce mock data.  Here’s how we implemented a mock factory for an e-commerce site that’s simple, flexible, and fun.
 
+> Originally published at https://nearform.com/digital-community/mock-factories-make-better-tests/
 
 ![The inside of an old factory](https://res.cloudinary.com/formidablelabs/image/upload/q_auto,f_auto,w_1500/dotcom/mock-factory.png)
 
-**Developers need a good way to produce mock data.  Here’s how we implemented a mock factory for an e-commerce site that’s simple, flexible, and fun.**
 
 As developers, we use many different tools to test our software. Development servers, component playgrounds (like Storybook), and automated tests (like unit, integration, end-to-end, visual, performance). And there's one thing that all these tools have in common: **they need data**.  Which means, as the developer, **you** need data.
 
