@@ -1,4 +1,7 @@
-My latest Formidable blog post, [Unlocking the Power of Storybook](https://formidable.com/blog/2023/unlocking-the-power-of-storybook/), is now live!
+---
+layout: post
+title: "Unlocking the power of Storybook (preview)"
+---
 
 In this piece I delve into the multifaceted capabilities of Storybook, transcending its role as a UI showcase to emerge as a robust development environment and unit testing framework for frontend applications.
 
