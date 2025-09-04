@@ -1,12 +1,15 @@
-# Build, Migrate, Improve: A Three-Phase Approach to Adopting TypeScript
+---
+layout: post
+title: "Build, Migrate, Improve: A Three-Phase Approach to Adopting TypeScript"
+---
+
+Converting a project to TypeScript is an investment worth making.  Here’s what you need to know to make the process go smoothly and quickly.
 
 > Originally published at https://nearform.com/digital-community/adopting-typescript-in-phases/
 
 ![Photo By Mike Hindle of a typewriter sitting on a desk](https://res.cloudinary.com/formidablelabs/image/upload/f_auto,q_auto/v1675121564/dotcom/uploads-mike-hindle-dwyrc2jumgs-unsplash "Photo By Mike Hindle")
 
 At Formidable, we've converted many of our OSS projects to TypeScript, including [Spectacle](https://github.com/FormidableLabs/spectacle/pull/1075) and [react-swipeable](https://formidable.com/blog/2020/react-swipeable-ts/), and have helped many of our clients adopt TypeScript as well.
-
-Converting a project to TypeScript is an investment worth making.  Here’s what you need to know to make the process go smoothly and quickly.
 
 ## The Three-Phase Approach
 

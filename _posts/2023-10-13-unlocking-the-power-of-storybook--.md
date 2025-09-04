@@ -1,4 +1,7 @@
-# Unlocking the Power of Storybook
+---
+layout: post
+title: "Unlocking the power of Storybook"
+---
 
 Going beyond the Design System: how to use Storybook to develop, test, and validate all parts of a frontend application.
 
