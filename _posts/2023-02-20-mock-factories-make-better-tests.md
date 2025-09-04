@@ -1,3 +1,8 @@
+---
+layout: post
+title: "How to create Mock Factories to write better tests"
+---
+
 Developers need a good way to produce mock data.  Here’s how we implemented a mock factory for an e-commerce site that’s simple, flexible, and fun.
 
 > Originally published at https://nearform.com/digital-community/mock-factories-make-better-tests/
