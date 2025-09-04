@@ -1,5 +1,3 @@
-# Unlocking the Power of Storybook
-
 Going beyond the Design System: how to use Storybook to develop, test, and validate all parts of a frontend application.
 
 > Originally published at https://nearform.com/digital-community/unlocking-the-power-of-storybook/
